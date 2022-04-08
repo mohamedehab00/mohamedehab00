@@ -6,6 +6,18 @@
 
 <div id="header" align="center">
   <h3>👨‍💻 Junior Software Engineer who wants to change the world 👨‍💻</h3>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/mohamedehab00/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.instagram.com/_mohamedehab_00/">
+      <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    </a>
+    <a href="https://www.facebook.com/profile.php?id=100028588170700">
+      <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+    </a>
+  </div>
+  
 </div>
 
 ---
