@@ -1,13 +1,26 @@
-### Hi there 👋, I'm Mohamed Ehab
+<div id="header" align="center">
+  <h2>Hi there 👋, I'm Mohamed Ehab</h2>
+</div>
+
 ---
-### 🌱 Junior Software Engineer
+
+<div id="header" align="center">
+  <h3>👨‍💻 Junior Software Engineer who wants to change the world 👨‍💻</h3>
+</div>
+
 ---
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mohamedehab00&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<div id="header" align="center">
+  <a href="https://git.io/streak-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mohamedehab00&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  
+</div>
+
 ---
-<a href="https://github.com/mohamedehab00/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedehab00&theme=midnight-purple&hide_border=true&count_private=true&show_icons=true" />
 </a>
-<a href="https://github.com/mohamedehab00/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedehab00&theme=midnight-purple&hide_border=true&hide=CMake,C&layout=compact" />
 </a>
 
