@@ -2,7 +2,14 @@
 ---
 ### 🌱 Junior Software Engineer
 ---
-[![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedehab00&theme=midnight-purple&count_private=true&show_icons=true)](https://github.com/mohamedehab00/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mohamedehab00&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+---
+<a href="https://github.com/mohamedehab00/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedehab00&theme=midnight-purple&hide_border=true&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/mohamedehab00/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedehab00&theme=midnight-purple&hide_border=true&hide=CMake,C&layout=compact" />
+</a>
 
 <!--
 **mohamedehab00/mohamedehab00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
