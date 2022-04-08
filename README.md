@@ -1,5 +1,8 @@
-### Hi there 👋, I'm Mohamed Ehab 
-### Junior Software Engineer
+### Hi there 👋, I'm Mohamed Ehab
+---
+### 🌱 Junior Software Engineer
+---
+[![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedehab00&theme=midnight-purple&count_private=true&show_icons=true)](https://github.com/mohamedehab00/github-readme-stats)
 
 <!--
 **mohamedehab00/mohamedehab00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
