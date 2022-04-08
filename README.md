@@ -17,7 +17,9 @@
       <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
   </div>
-  
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=mohamedehab00&style=plastic&color=blue" alt=""/>
+  </div>
 </div>
 
 ---
@@ -29,12 +31,18 @@
 </div>
 
 ---
-<a href="https://github.com/anuraghazra/github-readme-stats">
+
+### :fire: My Stats :
+  
+  
+<div id="header" align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedehab00&theme=midnight-purple&hide_border=true&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedehab00&theme=midnight-purple&hide_border=true&hide=CMake,C&layout=compact" />
 </a>
+</div>
 
 <!--
 **mohamedehab00/mohamedehab00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
