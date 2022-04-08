@@ -5,7 +5,7 @@
 ---
 
 <div id="header" align="center">
-  <h3>👨‍💻 Junior Software Engineer who wants to change the world 👨‍💻</h3>
+  <h3>👨‍💻 Junior Software Engineer who aims to change the world 👨‍💻</h3>
   <div id="badges">
     <a href="https://www.linkedin.com/in/mohamedehab00/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -17,7 +17,9 @@
       <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
   </div>
-  
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=mohamedehab00&style=plastic&color=blue" alt=""/>
+  </div>
 </div>
 
 ---
