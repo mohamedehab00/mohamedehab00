@@ -30,19 +30,6 @@
   
 </div>
 
----
-
-### :fire: My Stats :
-  
-  
-<div id="header" align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedehab00&theme=midnight-purple&hide_border=true&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedehab00&theme=midnight-purple&hide_border=true&hide=CMake,C,Makefile,Limbo,Brainfuck,Eiffel&layout=compact" />
-</a>
-</div>
 
 <!--
 **mohamedehab00/mohamedehab00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
